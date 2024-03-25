@@ -6,7 +6,7 @@
   "homepage": "https://github.com/patternfly/angular-patternfly",
   "dependencies": {},
   "devDependencies": {
-    "express": "3.4.4",
+    "express": "4.19.2",
     "grunt": "0.4.5",
     "grunt-angular-templates": "0.5.7",
     "grunt-available-tasks": "0.4.3",
